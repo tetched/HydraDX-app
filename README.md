@@ -1,4 +1,4 @@
-# hack HydraDX app
+# hack Tetched app
 
 XYK AMM + Exchange order matching built for Hackusama hackaton
 
